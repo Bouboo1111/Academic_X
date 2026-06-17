@@ -9,6 +9,6 @@ import java.util.List;
 @NoArgsConstructor
 @AllArgsConstructor
 public class ClazzOption {
-    private List<Object> ClazzList;
+    private List<Object> clazzList;
     private List<Object> dataList;
 }
